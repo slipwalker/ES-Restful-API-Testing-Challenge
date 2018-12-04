@@ -5,7 +5,7 @@ Minimun reequirements for machine where tests going to be executed:
 
    - Docker version should be at least 1.6.0
    - Docker environment should have more than 2GB free disk space
-   - Maven should be installed
+   - Maven should be onboard
   
 To run the tests just type the following command in the terminal window:
 
