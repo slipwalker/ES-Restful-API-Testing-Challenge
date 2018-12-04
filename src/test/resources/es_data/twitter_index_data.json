@@ -1,0 +1,22 @@
+[
+  {
+  "user" : "kimchy",
+  "post_date" : "2001-11-02 10:33:22",
+  "message" : "trying out Elasticsearch"
+  },
+  {
+    "user" : "kimchy",
+    "post_date" : "2005-11-02 10:33:22",
+    "message" : "new trying out Elasticsearch"
+  },
+  {
+    "user" : "another user",
+    "post_date" : "2011-11-02 12:33:22",
+    "message" : "some other message"
+  },
+  {
+    "user" : "willy wonka",
+    "post_date" : "2012-11-02 14:33:22",
+    "message" : "really eager to know"
+  }
+]

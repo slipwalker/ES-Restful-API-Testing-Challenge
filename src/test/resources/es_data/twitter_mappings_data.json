@@ -1,0 +1,14 @@
+{
+  "properties":{
+    "user":{
+      "type":"keyword"
+    },
+    "post_date":{
+      "type":"date",
+      "format":"yyyy-MM-dd HH:mm:ss"
+    },
+    "message":{
+      "type":"keyword"
+    }
+  }
+}

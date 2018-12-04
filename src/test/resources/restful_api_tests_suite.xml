@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Restful API tests" verbose="2"  parallel="tests" thread-count="1">
+
+    <test name="Elastic Search Restful API tests">
+        <classes>
+            <class name="com.technicaltask.test.ElasticSearchRestfulApiTests"/>
+        </classes>
+    </test>
+</suite>
